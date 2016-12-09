@@ -1,7 +1,7 @@
 Zipfian_project-similarity_between_SF_neighborhoods
 ===================================================
 
-This repository contains the python code (ipython notebooks) that I used in my personal project at Zipfian Academy.  I developed a model that can recommend altnerative neighborhoods in SF.  
+This repository contains the python code (ipython notebooks) that I used in my personal project at Zipfian Academy.  I developed a model that can recommend alternative neighborhoods in SF.  
 
 I had two weeks to develop the idea, collect and munge the data, build a model, and arrive at some useful insights into the data.  
 
